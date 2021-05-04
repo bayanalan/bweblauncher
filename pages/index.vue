@@ -1,27 +1,118 @@
 <template>
   <div class="container">
     <div>
-      <Logo />
+     <center><img class="w-72" src="google.svg" /></center> 
       <h1 class="title">
-        bweblauncher
+        b web launcher
       </h1>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://docs.google.com/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation
+          google docs
         </a>
+       <a
+          href="https://slides.google.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          google slides
+        </a>
+
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://sites.google.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          sites
+        </a>
+
+
+<a
+          href="https://www.google.com/maps"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          maps
+        </a>
+
+
+<a
+          href="https://www.google.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          google
+        </a>
+
+      
+
+        <a
+          href="https://sheets.google.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          google sheets
+        </a>
+
+        <a
+          href="mail.google.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          Gmail
+        </a>
+
+
+        <a
+          href="https://music.youtube.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          music
+        </a>
+
+
+        <a
+        href="https://chrome.google.com/webstore/category/extensions?utm_source=chrome-ntp-icon"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          web store
+        </a>
+
+
+
+        <a
+          href="https://www.youtube.com/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+        youtube
         </a>
+
+       <a
+          href="https://drive.google.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--grey"
+        >
+        drive
+        </a>
+        
+
       </div>
     </div>
   </div>
