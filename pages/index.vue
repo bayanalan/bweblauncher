@@ -3,7 +3,7 @@
     <div>
      <center><img class="w-72" src="google.svg" /></center> 
       <h1 class="title">
-        b web launcher
+        B web launcher
       </h1>
 <h1 class="subtitle">
         the google launcher.
