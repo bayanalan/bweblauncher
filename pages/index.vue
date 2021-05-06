@@ -5,6 +5,10 @@
       <h1 class="title">
         b web launcher
       </h1>
+<h1 class="subtitle">
+        the google launcher.
+      </h1>
+
       <div class="links">
         <a
           href="https://docs.google.com/"
