@@ -6,7 +6,7 @@
         B web launcher
       </h1>
 <h1 class="subtitle">
-        the Google launcher.
+        the Google launcher. version 1.0.1
       </h1>
 
       <div class="links">
