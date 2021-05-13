@@ -37,6 +37,10 @@
         </a>
 
 
+
+      
+
+
 <a
           href="https://www.google.com/maps"
           target="_blank"
@@ -186,14 +190,14 @@ export default {}
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: #35495e;
+  color: hsl(199, 100%, 50%);
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
   font-size: 42px;
-  color: #526488;
+  color: hsl(145, 91%, 43%);
   word-spacing: 5px;
   padding-bottom: 15px;
 }
