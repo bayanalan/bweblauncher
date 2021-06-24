@@ -262,14 +262,14 @@ export default {}
     sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 60px;
+  font-size: 50px;
   color: hsl(199, 100%, 50%);
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 42px;
+  font-size: 22px;
   color: hsl(145, 91%, 43%);
   word-spacing: 5px;
   padding-bottom: 15px;
