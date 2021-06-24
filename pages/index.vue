@@ -102,6 +102,32 @@
         </a>
 
 
+        <a
+          href="https://mail.google.com/chat/u/0/#chat/welcome"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+         
+        </a>
+
+
+
+         <a
+          href="https://translate.google.com/?hl=en&tab=rT"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+         translate
+        </a>
+
+
+      
+
+
+
+
 
         <a
           href="https://music.youtube.com/"
