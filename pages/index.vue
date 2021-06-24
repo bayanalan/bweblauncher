@@ -81,6 +81,28 @@
         </a>
 
 
+
+<a
+          href="https://photos.google.com/?tab=rq&pageId=none"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          photos
+        </a>
+
+
+        <a
+          href="https://news.google.com/topstories?tab=rn&hl=en-US&gl=US&ceid=US:en"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+         news
+        </a>
+
+
+
         <a
           href="https://music.youtube.com/"
           target="_blank"
@@ -89,6 +111,19 @@
         >
           music
         </a>
+
+
+        <a
+          href="https://play.google.com/store/apps?hl=en"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+         play store
+        </a>
+
+
+
 
 
 <a
