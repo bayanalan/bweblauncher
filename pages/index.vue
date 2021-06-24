@@ -91,6 +91,18 @@
         </a>
 
 
+<a
+          href="https://books.google.com/?hl=en&tab=rp"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          books
+        </a>
+
+
+
+
         <a
         href="https://chrome.google.com/webstore/category/extensions?utm_source=chrome-ntp-icon"
           target="_blank"
