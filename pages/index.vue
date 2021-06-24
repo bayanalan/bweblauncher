@@ -262,7 +262,7 @@ export default {}
     sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 60px;
   color: hsl(199, 100%, 50%);
   letter-spacing: 1px;
 }
